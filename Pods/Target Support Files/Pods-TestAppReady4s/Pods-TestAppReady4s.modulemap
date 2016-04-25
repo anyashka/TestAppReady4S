@@ -1,0 +1,6 @@
+framework module Pods_TestAppReady4s {
+  umbrella header "Pods-TestAppReady4s-umbrella.h"
+
+  export *
+  module * { export * }
+}
